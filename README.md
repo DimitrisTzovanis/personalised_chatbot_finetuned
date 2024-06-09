@@ -2,7 +2,7 @@
 
 ## Members: Dimitris Tzovanis
 
-#### Create your own chtbot model, on your own conversation data (both in english and greek), by finetuning a big language model 
+#### Create your own chtbot, on your own conversation data (both in english and greek), by finetuning a big language model 
 
 
 
